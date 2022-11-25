@@ -1,0 +1,11 @@
+#information_section,#categorias_section,#productos_section,#list_productos_section,#col_productos_section,#row_categorias_section,#row_information_section{
+    max-height: 80vh;
+
+    height:80vh;
+   
+}
+
+#col_productos_section,#row_categorias_section{
+    overflow: auto;
+}
+

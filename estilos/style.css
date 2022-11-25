@@ -1,0 +1,35 @@
+#categorias_section{
+    height: 90vh;
+}
+
+#row_orden,#orden_section,#col_lista_orden{
+   
+    min-height: 450px;
+    max-height: 450px;
+}
+
+#categorias_section{
+    min-height: 88vh;
+    max-height: 88vh;
+
+    max-width: 250px;
+}
+
+
+  #col_lista_orden,#categorias_section{
+    overflow-x: hidden;
+    overflow-y: scroll;
+     
+ }
+
+ #opciones_section{
+    max-width: 200px;
+ }
+
+ #opciones_section input{
+    max-width: 100%;
+ }
+
+#col_opciones_btn{
+    height: 60vh;
+}
